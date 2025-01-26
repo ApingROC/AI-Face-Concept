@@ -17,5 +17,3 @@ By layering transparent and flexible OLED screens on a genuine 3D head model (e.
 Attached Details
 
 For a more detailed breakdown of the concept, please refer to the attached documentation.
-
-This revised version emphasizes your concept’s strengths, clearly introduces the problem it addresses, and makes the explanation more fluid. Let me know if you need further tweaks!
