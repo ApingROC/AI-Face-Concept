@@ -88,3 +88,5 @@ Next Steps
 Conclusion
 
 This refined multi-layered AI face design — including its simplified single-layer variant — combines OLED technology and matte visual diffusion to deliver a dynamic, realistic, and scalable facial interface for robots and AI systems. By eliminating actuators and mechanical motion, it offers long-term reliability and expressive fidelity in a compact form. The concept is openly shared to foster development, collaboration, and ethical innovation in human-AI interaction.
+
+UPDATE: The display is now technologically available: https://news.lgdisplay.com/en/2024/11/lg-display-succeeds-in-developingworlds-first-stretchable-display-that-expands-by-50-percent/
