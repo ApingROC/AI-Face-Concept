@@ -99,3 +99,6 @@ This refined multi-layered AI face design — including its simplified single-la
 UPDATE: The display is now technologically available:
 https://news.lgdisplay.com/en/2024/11/lg-display-succeeds-in-developingworlds-first-stretchable-display-that-expands-by-50-percent/
 
+![First image](IMG_5437.jpeg)
+![Second image](IMG_5438.jpeg)
+
